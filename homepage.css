@@ -1,0 +1,35 @@
+html,body{
+    height:100%;
+}
+
+
+@media only screen and (min-width: 768px) {
+    /* tablets and desktop */
+    #framed-photo {
+        overflow: hidden;
+        max-height: 200px;
+        width: auto;
+        border-radius: 50%
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    /* phones */
+    #framed-photo {
+        overflow: hidden;
+        max-height: 150px;
+        width: auto;
+        border-radius: 50%
+    }
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+    /* portrait phones */
+    #framed-photo {
+        overflow: hidden;
+        max-height: 100px;
+        width: auto;
+        border-radius: 50%
+    }
+}
