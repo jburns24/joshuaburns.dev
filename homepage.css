@@ -2,6 +2,20 @@ html,body{
     height:100%;
 }
 
+.top-background {
+    background-color: #E6E6E6;
+}
+
+.btn-long {
+    border-radius: 15px;
+    width: 50%;
+}
+
+
+.theme-font {
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 @media only screen and (min-width: 768px) {
     /* tablets and desktop */
@@ -11,7 +25,6 @@ html,body{
         width: auto;
         border-radius: 50%
     }
-
 }
 
 @media only screen and (max-width: 767px) {

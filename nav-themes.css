@@ -1,0 +1,8 @@
+.nav-theme {
+    font-weight: 400;
+    font-size: 1.25em;
+}
+
+.nav-theme:hover {
+    color: gray
+}
