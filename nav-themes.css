@@ -1,8 +1,13 @@
 .nav-theme {
-    font-weight: 400;
-    font-size: 1.25em;
+    font-weight: 400 !important;
+    font-size: 1.25em !important;
 }
 
 .nav-theme:hover {
-    color: gray
+    color: gray !important;
+}
+
+a[class='nav-theme'] {
+    color: #212529 !important;
+    text-decoration: none;
 }
