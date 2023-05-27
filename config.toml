@@ -5,14 +5,16 @@ theme = 'hugo-theme-nix'
 
 [params]
   Name = "your_name"
-  HeaderUsername = "username"
-  HeaderHostname = "hostname"
-  About = """Howdy, fellow digital wanderers! I'm Joshua Burns, your friendly neighborhood DevOps whisperer. During daylight hours, I tinker in the boundless world of computer science. Recently, I've accepted the challenge of serving as a DevOps Bootcamp manager. My mission, you ask? To scout for the aspiring Samwises of DevOps and guide them on their journey to become the Gandalfs of their tech fellowship.
+  HeaderUsername = "jburns"
+  HeaderHostname = "shire"
+  About = """Howdy, fellow digital wanderers! I'm Joshua Burns, your friendly neighborhood DevOps whisperer. During daylight hours, I tinker in the boundless world of computer science. Recently, I've accepted the challenge of serving as a DevOps Bootcamp manager. My mission, you ask? To scout for the aspiring Samwises and Frodos of DevOps and guide them on their journey to become the lords of their tech fellowship.
+
 
 But don't be fooled by the lofty title - I'm just your humble code crafter, forever learning and growing. I'm more inclined to laugh at my occasional failed attempts at coding (ever tried debugging a rubber duck?) than gloat about my successes. And for all my fellow dads out there, here's one for you: Why don't programmers like to go outside? They're afraid of bugs!
 
+
 So, join me on this epic quest, where the source code is deep, the bugs are plentiful, but the joy of discovery is boundless. After all, the Internet is vast and full of wonders, and not all those who browse are lost!"""
-  ProfilePicture = "profile_picture_url"
+  ProfilePicture = "https://github.com/jburns24/joshuaburns.dev/blob/master/assets/img/profile-picture.jpeg?raw=true"
 #   BitbucketID = "your_bitbucket_id"
 #   CodepenID = "your_codepen"
 #   CvURL = "your_cv_url"
